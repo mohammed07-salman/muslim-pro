@@ -1,0 +1,8 @@
+{
+  "name": "Muslim Pro - Islamic Prayer Times, Quran, Qibla & Daily Duas",
+  "description": "Complete modern Islamic companion featuring accurate prayer times, Qibla compass, Quran with translations, Azkar, digital Tasbih, Ramadan tracker, and Islamic calendar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
